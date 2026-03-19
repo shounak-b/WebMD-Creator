@@ -1,6 +1,6 @@
 # Content Brief Output Structure
 
-Standard output format for Visual Planning content briefs generated in Step 6.
+Standard output format for WebMD Health Services content briefs generated in Step 6.
 
 ---
 
@@ -16,7 +16,7 @@ Standard output format for Visual Planning content briefs generated in Step 6.
 ## Output Template
 
 ```markdown
-# Visual Planning | [Page Topic]: Content Brief
+# WebMD Health Services | [Page Topic]: Content Brief
 
 [M.D.YYYY]
 
@@ -37,7 +37,7 @@ Standard output format for Visual Planning content briefs generated in Step 6.
 
 ## Page Title
 
-- *[50-60 chars: {Primary Keyword} | Visual Planning]*
+- *[50-60 chars: {Primary Keyword} | WebMD Health Services]*
 
 ---
 
@@ -49,7 +49,7 @@ Standard output format for Visual Planning content briefs generated in Step 6.
 
 ## URL Structure
 
-https://www.visual-planning.com/en/[path]/
+https://www.webmdhealthservices.com/[path]/
 
 ---
 
@@ -108,7 +108,7 @@ https://www.visual-planning.com/en/[path]/
 ## Section Guidelines
 
 ### Title & Date
-- Format: `# Visual Planning | [Page Topic]: Content Brief`
+- Format: `# WebMD Health Services | [Page Topic]: Content Brief`
 - Date: M.D.YYYY (e.g., 3.6.2026)
 
 ### Goal of Content
@@ -116,8 +116,9 @@ https://www.visual-planning.com/en/[path]/
 - Include: page objective, target personas, conversion goal
 
 ### Page Title
-- Format: `{Primary Keyword} | Visual Planning`
+- Format: `{Primary Keyword} | WebMD Health Services`
 - Length: 50-60 characters
+- Note: If the Primary Keyword + " | WebMD Health Services" exceeds 60 characters, shorten the keyword phrase or use "| WebMD" instead
 
 ### Meta Description
 - Length: 150-160 characters
@@ -165,17 +166,17 @@ Apply brand guidelines to intro text (no prohibited terms).
 
 **Example:**
 ```markdown
-**H1:** *Scheduling software for mid-market businesses*
+**H1:** *Employee Well-Being Programs for Large Employers*
 
-*Visual Planning gives operations teams a configurable, drag-and-drop scheduling layer that replaces fragmented spreadsheets — without a lengthy implementation.*
+*WebMD Health Services delivers a clinically grounded, five-dimension well-being program that drives behavior change and measurable health outcomes for your workforce.*
 
-  **H2:** *Growth has exposed gaps in your planning*
+  **H2:** *Why fragmented point solutions fall short.*
 
-    **H3:** *Teams expand, but visibility does not*
+    **H3:** *Low engagement from disconnected experiences.*
 
-    **H3:** *Departments operate in silos*
+    **H3:** *No single view of population health.*
 
-  **H2:** *What our users are saying*
+  **H2:** *What our clients are saying.*
 
   [Include testimonial carousel]
 ```
@@ -194,7 +195,7 @@ Copy and check off as you complete:
 
 ```
 Output Checklist:
-- [ ] Title: Visual Planning | [Page Topic]: Content Brief
+- [ ] Title: WebMD Health Services | [Page Topic]: Content Brief
 - [ ] Date in M.D.YYYY format
 - [ ] Goal of Content with objectives
 - [ ] Page Title 50-60 chars

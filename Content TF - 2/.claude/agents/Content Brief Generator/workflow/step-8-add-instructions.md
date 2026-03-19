@@ -42,9 +42,9 @@ Step 8 Progress:
 
 **Example:**
 ```markdown
-**H2:** *Why teams switch to Visual Planning*
+**H2:** *Why HR leaders choose WebMD Health Services.*
 
-[(20 words): Highlight the top reasons project managers, resource planners, and operations teams choose Visual Planning over other tools. Lead with flexibility, ease of use, and scheduling depth as the core narrative.]
+[(30-40 words): Highlight the top reasons HR Directors, Benefits Managers, and CHROs choose WebMD Health Services. Lead with clinical credibility, the holistic five-dimension approach, and the human-centered coaching model as core differentiators versus point solutions.]
 ```
 
 **Rules:**
@@ -78,11 +78,11 @@ Step 8 Progress:
 The H1 headline stands alone — no instruction on the headline itself. Add a writing instruction for the **intro text** that follows the H1 (drafted in Step 6). Use the word count for the relevant page type (see Word Count Guidelines above).
 
 ```markdown
-**H1:** *Visual Planning alternatives: Compare leading solutions*
+**H1:** *Employee Well-Being Programs for Large Employers*
 
 *[intro text drafted in Step 6]*
 
-[(15-20 words): Introduce Visual Planning as a flexible, visual-first alternative to popular project management and scheduling tools. Concisely answer the "how" — focus on what makes VP distinctly suited for teams evaluating their options.]
+[(15-20 words): Introduce WebMD Health Services as a clinically grounded well-being partner. Concisely answer the "how" — lead with the holistic, five-dimension approach and the breadth of the platform.]
 ```
 
 ### First H2 (Problem/Challenge Section)
@@ -90,9 +90,9 @@ The H1 headline stands alone — no instruction on the headline itself. Add a wr
 Frame the challenge the target audience faces.
 
 ```markdown
-**H2:** *Growth has exposed gaps in your planning process*
+**H2:** *Why fragmented point solutions fail your workforce.*
 
-[(30-40 words): Acknowledge that as mid-market companies expand, disconnected tools and informal processes create operational blind spots that limit visibility, delay decisions, and increase coordination risk.]
+[(30-40 words): Acknowledge that as large employers invest in multiple disconnected well-being tools, employees disengage due to irrelevant experiences, HR struggles to prove ROI, and healthcare costs remain high. Frame this as the case for a unified platform approach.]
 ```
 
 ### Standard H2
@@ -100,9 +100,9 @@ Frame the challenge the target audience faces.
 Explain what the section covers and why it matters.
 
 ```markdown
-**H2:** *Visual Planning vs. the competition*
+**H2:** *One platform for holistic employee well-being.*
 
-[(15-20 words): Introduce a feature comparison table that should be included below. Frame it as a simple way for teams to see how Visual Planning stacks up across key capabilities.]
+[(30-40 words): Introduce WebMD ONE as the core platform that unifies physical, emotional, social, financial, and clinical well-being into a single, connected experience. Explain how it supports employers in delivering a personalized program at scale.]
 ```
 
 ### H3 (Subtopics)
@@ -110,9 +110,9 @@ Explain what the section covers and why it matters.
 Provide specific guidance for the subtopic.
 
 ```markdown
-**H3:** *Customizable visual views*
+**H3:** *WebMD ONE — the core well-being platform.*
 
-[(20-30 words): Explain that Visual Planning offers Gantt, Kanban, and other view types that can be customized to any industry or workflow. Contrast this with rigid tools that lock teams into a single view format.]
+[(20-30 words): Describe WebMD ONE's key capabilities — Health Assessment, Wellness Challenges, Daily Habits, Digital Coaching, and Benefits Navigation — and explain how the platform drives behavior change across all five dimensions of well-being.]
 ```
 
 ### H3 (FAQ Questions)
@@ -120,9 +120,9 @@ Provide specific guidance for the subtopic.
 Guide how to answer each FAQ with more detail.
 
 ```markdown
-**H3:** *How does Visual Planning differ from competitors?*
+**H3:** *How does WebMD Health Services differ from competitors?*
 
-[(50-75 words): Explain that unlike rigid project management tools (Smartsheet and Microsoft Project) or general task boards (monday.com and Excel), Visual Planning combines highly customizable scheduling views, such as Gantt and Kanban, with drag-and-drop simplicity, real-time collaboration, and integration with ERP and Microsoft systems. Emphasize that it is purpose-built for teams that need visual, flexible planning across industries and team sizes.]
+[(50-75 words): Explain that unlike digital-only or fitness-focused platforms (Personify Health, Wellhub), WebMD Health Services offers the only solution that includes the Clinical dimension of well-being — chronic condition management and preventive care — alongside the other four dimensions. Highlight the WebMD brand trust, 25+ years of clinical credibility, award-winning health coaching, and the Clinical Advisory Board as key differentiators unavailable elsewhere.]
 ```
 
 ---
@@ -134,19 +134,19 @@ Guide how to answer each FAQ with more detail.
 Include table instructions in brackets:
 
 ```markdown
-**H2:** *Visual Planning vs. the competition*
+**H2:** *WebMD Health Services vs. the competition.*
 
-[(15-20 words): Introduce a feature comparison table that should be included below.]
+[(15-20 words): Introduce a feature comparison table that should be included below. Frame it as a straightforward way for HR leaders to compare well-being platforms across the dimensions that matter most to them.]
 
-[Include a feature comparison table. Columns: Visual Planning, Smartsheet, monday.com, Microsoft Project, Microsoft Excel. Rows should include features such as customizable views (Gantt/Kanban), drag-and-drop scheduling, real-time collaboration, resource and workforce planning, integrations, and scalability. Use checkmarks for supported features.]
+[Include a feature comparison table. Columns: WebMD Health Services, Personify Health, Sharecare, Vitality, Wellhub. Rows should include dimensions covered (physical, emotional, social, financial, clinical), health coaching (human-led), WebMD brand trust, Clinical Advisory Board, available countries/languages, and average client health improvement. Use checkmarks for supported features.]
 ```
 
 ### Testimonials
 
 ```markdown
-**H2:** *What our users are saying*
+**H2:** *What our clients are saying.*
 
-[Include a testimonial carousel with 3-5 customer testimonials. Each testimonial should include a name, company or industry, and a brief quote emphasizing scheduling ease, team visibility, or time savings.]
+[Include a testimonial carousel with 3-5 client testimonials. Each testimonial should include a name, title, organization type (for example, large employer or health plan), and a brief quote emphasizing engagement outcomes, behavior change, healthcare cost reduction, or strategic partnership value.]
 ```
 
 ---
@@ -158,7 +158,7 @@ Include table instructions in brackets:
 Save as `content-brief-with-instructions.md` in the same folder as the original brief.
 
 ```markdown
-# Visual Planning | [Page Topic]: Content Brief
+# WebMD Health Services | [Page Topic]: Content Brief
 
 [Keep all metadata sections from original brief unchanged]
 

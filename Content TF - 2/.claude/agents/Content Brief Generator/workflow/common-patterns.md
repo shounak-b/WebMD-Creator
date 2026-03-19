@@ -118,23 +118,29 @@ python3 scripts/<script_name>.py "<argument>"
 
 ## Brand Compliance Checks
 
-**Prohibited term scan:**
-- [ ] No absolutes (ensure, guarantee, always, all, any, 100%)
-- [ ] No superlatives (best, breakthrough, revolutionary, unique, perfect)
-- [ ] No antitrust terms (dominate, market leader, eliminate competition)
-- [ ] No vague terms (expertise, only, partner)
-- [ ] No regulatory misuse (safe, FDA misapplication)
+**Prohibited term scan (WebMD Health Services):**
+- [ ] No clichés: "rest assured", "now more than ever", "in order to", "with that being said"
+- [ ] No unproven superlatives: "world-class", "best-in-class", "premier", "unique", "revolutionary", "game-changing", "perfect", "most powerful"
+- [ ] No absolute claims: "guarantee(s) health outcomes", "eliminate health risks", "100% engagement", "always", "never" (as blanket absolutes)
+- [ ] No wrong terms: "WHS" (use "WebMD" or "WebMD Health Services"), "preventative" (use "preventive"), "customers/consumers" (use "clients"), "end-user" (use "participant", "employee", "member"), "well-being challenges" (use "wellness challenges"), "e.g.", "i.e.", "etc."
 
 **Tense variation checks:**
-- [ ] Check present, past, future forms (ensure/ensures/ensured/ensuring)
-- [ ] Check plural forms (guarantee/guarantees)
-- [ ] Check related forms (perfect/perfectly/perfection)
+- [ ] Check present, past, future forms (guarantee/guarantees/guaranteed/guaranteeing)
+- [ ] Check plural forms (ensure/ensures/ensuring — replace with "help ensure", "support")
+- [ ] Check related forms (revolutionary/revolutionize/revolutionizing)
 
 **Tone compliance:**
-- [ ] Confident and capable (not aggressive)
-- [ ] Straightforward and clear (not buzzword-heavy)
-- [ ] Outcome-driven (not vague promises)
-- [ ] Performance-focused (not overly polished)
+- [ ] Collaborative and empathetic (not aggressive or boastful)
+- [ ] Evidence-based and outcome-focused (not vague promises)
+- [ ] Human-centered and personal (not cold or generic)
+- [ ] Clinical credibility conveyed (not overly promotional)
+
+**Capitalization checks (per WebMD editorial guidelines):**
+- [ ] H1: Title Case — all major words capitalized
+- [ ] H1 titles: "Well-Being" — both W and B capitalized
+- [ ] H2–H3: Sentence case — first word and proper nouns only; ends with full stop
+- [ ] "WebMD ONE", "ONE Partners", "Well-Being Services", "TINYpulse" — exact casing maintained
+- [ ] "well-being" — always hyphenated in body copy; "wellness" only for single dimensions or "wellness challenges"
 
 ---
 
@@ -194,9 +200,9 @@ python3 scripts/<script_name>.py "<argument>"
 - Replace spaces with hyphens
 - Remove special characters except hyphens
 - Examples:
-  - "CHO Cell Culture Media" → `cho-cell-culture-media`
-  - "Bioprocessing Solutions" → `bioprocessing-solutions`
-  - "mRNA Vaccine Production" → `mrna-vaccine-production`
+  - "Employee Well-Being Program" → `employee-well-being-program`
+  - "Health Coaching Platform" → `health-coaching-platform`
+  - "Well-Being Solutions for Health Plans" → `well-being-solutions-for-health-plans`
 
 **Folder creation:**
 ```bash

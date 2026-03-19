@@ -97,19 +97,19 @@ For standard error handling patterns, see [common-patterns.md](common-patterns.m
 ## Example Execution
 
 **Given:**
-- Primary Keyword: "resource scheduling software"
-- Competitor Domains: "whenIwork.com, smartsheet.com, shiftplanning.com"
+- Primary Keyword: "employee well-being program"
+- Competitor Domains: "personifyhealth.com, sharecare.com, vitality.com"
 
 **Step-by-step:**
 
-1. **Search site:whenIwork.com "resource scheduling software"**
-   - Get 1st ranking URL: https://wheniwork.com/resource-scheduling
+1. **Search site:personifyhealth.com "employee well-being program"**
+   - Get 1st ranking URL: https://personifyhealth.com/employee-well-being
 
-2. **Search site:smartsheet.com "resource scheduling software"**
-   - Get 1st ranking URL: https://www.smartsheet.com/resource-scheduling
+2. **Search site:sharecare.com "employee well-being program"**
+   - Get 1st ranking URL: https://www.sharecare.com/employer/well-being
 
-3. **Search site:shiftplanning.com "resource scheduling software"**
-   - Get 1st ranking URL: https://www.shiftplanning.com/features
+3. **Search site:vitality.com "employee well-being program"**
+   - Get 1st ranking URL: https://www.vitality.com/employers/wellness
 
 4. **Scrape each URL** (max 5 total)
    - Scrape URL 1, extract headlines and FAQs
@@ -118,13 +118,12 @@ For standard error handling patterns, see [common-patterns.md](common-patterns.m
 
 5. **Deduplicate and output unique items**
 
-**Visual Planning's Known Competitors** (use as defaults if the user doesn't provide competitor domains):
-- whenIwork.com — shift scheduling, small business focus
-- shiftplanning.com / humanity.com — workforce scheduling
-- smartsheet.com — project and resource management
-- microsoft.com (MS Project) — enterprise project scheduling
-- asana.com — project management
-- monday.com — work management platform
+**WebMD Health Services' Known Competitors** (use as defaults if the user doesn't provide competitor domains):
+- personifyhealth.com — formerly Virgin Pulse; comprehensive well-being platform
+- sharecare.com — health and well-being platform; often competes in public sector
+- vitality.com — incentive-based well-being and insurance programs
+- wellhub.com — formerly Gympass; fitness and wellness benefit platform
+- springhealth.com — mental health benefits platform
 
 ---
 
@@ -133,28 +132,28 @@ For standard error handling patterns, see [common-patterns.md](common-patterns.m
 ```
 === UNIQUE HEADLINES ===
 
-H1: Resource Scheduling Software for Teams
-H2: Simplify Shift Scheduling
-H3: Drag-and-Drop Schedule Management
-H3: Employee Availability and Absences
-H2: Resource Planning for Projects
-H3: Assign the Right Person to the Right Job
-H3: Gantt and Calendar Views
-H1: Workforce Scheduling Made Simple
-H2: Plan Smarter with Visual Tools
-H2: Integrate with Your Existing Systems
-H3: HR and Payroll Integrations
-H3: ERP and CRM Connections
+H1: Employee Well-Being Programs for the Whole Person
+H2: Address all five dimensions of well-being.
+H3: Physical fitness and daily habit building.
+H3: Mental health and emotional resilience.
+H2: Incentive-based programs that drive participation.
+H3: Rewards that motivate lasting behavior change.
+H3: Points and challenges built into the platform.
+H1: Well-Being Solutions for Employers and Health Plans
+H2: How our platform supports workforce health.
+H2: Integrate with your existing benefits ecosystem.
+H3: Single sign-on and HR system connections.
+H3: Health plan and EAP integrations.
 
 === UNIQUE FAQs ===
 
-What is resource scheduling software?
-How is resource scheduling different from project management?
-Can I customize the scheduling views for my team?
-Does it work for field service teams?
-How does resource scheduling help reduce overbooking?
-What integrations does the software support?
-Is it suitable for small and large teams?
+What is an employee well-being program?
+How is well-being different from wellness?
+Can well-being programs be customized for different employee populations?
+Does the platform support remote and hybrid workforces?
+How do well-being programs reduce healthcare costs?
+What data and reporting is available to HR leaders?
+Is the platform suitable for large enterprise and mid-market organizations?
 ```
 
 ---

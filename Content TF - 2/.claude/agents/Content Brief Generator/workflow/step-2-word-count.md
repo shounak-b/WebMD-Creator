@@ -38,18 +38,18 @@ Recommended word count Range: [MIN]-[MAX] words
 ## Example
 
 ```
-SERP Analysis for "resource scheduling software":
-- Result 1: ~900 words
-- Result 2: ~1100 words
-- Result 3: ~850 words
-- Result 4: ~1050 words
-- Result 5: ~950 words
+SERP Analysis for "employee well-being program":
+- Result 1: ~1050 words
+- Result 2: ~900 words
+- Result 3: ~1200 words
+- Result 4: ~1000 words
+- Result 5: ~850 words
 
-Average: 970 words
+Average: 1000 words
 Page Type: Landing page → Allowed range: 500–1500 words
 
-SERP average (970) falls within the allowed range.
-Recommended word count Range: 800-1100 words
+SERP average (1000) falls within the allowed range.
+Recommended word count Range: 900-1100 words
 ```
 
 ---

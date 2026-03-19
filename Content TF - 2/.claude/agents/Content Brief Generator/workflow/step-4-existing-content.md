@@ -80,21 +80,21 @@ For standard error handling patterns, see [common-patterns.md](common-patterns.m
 ```
 === Existing Page Headlines ===
 
-H1: Resource Scheduling Software for Teams
+H1: Employee Well-Being Programs for Large Employers
 
-H2: Plan and Assign Resources Visually
+H2: Support all five dimensions of well-being.
 
-H3: Drag-and-Drop Schedule Boards
+H3: Physical fitness and daily habit building.
 
-H3: Smart Resource Assignment
+H3: Mental health coaching and stress resilience.
 
-H2: Real-Time Collaboration
+H2: One platform for your whole population.
 
-H2: Industries We Serve
+H2: Clients who trust WebMD Health Services.
 
-H3: Manufacturing and Production
+H3: Results from large employers.
 
-H3: Field Service and Utilities
+H3: Results from health plans.
 ```
 
 ---

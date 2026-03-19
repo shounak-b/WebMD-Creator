@@ -48,17 +48,17 @@ For each selected page, provide:
 ## Example Output
 
 ```
-1. URL: https://www.visual-planning.com/en/resource-scheduling
-   Anchor Text: resource scheduling software
+1. URL: https://www.webmdhealthservices.com/well-being-platform/
+   Anchor Text: employee well-being platform
 
-2. URL: https://www.visual-planning.com/en/project-management
-   Anchor Text: project scheduling tool
+2. URL: https://www.webmdhealthservices.com/health-coaching/
+   Anchor Text: health coaching program
 
-3. URL: https://www.visual-planning.com/en/workforce-management
-   Anchor Text: workforce planning software
+3. URL: https://www.webmdhealthservices.com/wellness-challenges/
+   Anchor Text: wellness challenges
 ```
 
-**Note:** Visual Planning's website domain is `visual-planning.com`. The English site lives under `visual-planning.com/en/`. Use this domain when running the `page_finder.py` script.
+**Note:** WebMD Health Services' website domain is `webmdhealthservices.com`. Use this domain when running the `page_finder.py` script.
 
 ---
 
