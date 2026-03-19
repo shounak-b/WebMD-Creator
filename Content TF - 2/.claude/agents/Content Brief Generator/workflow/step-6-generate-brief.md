@@ -108,16 +108,18 @@ Distribute across multiple sections.
 Reference: [../brand-guidelines.md](../brand-guidelines.md)
 
 **Prohibited:**
-- Absolutes: ensure, guarantee, always, all, any, 100%, seamless, effortless
-- Superlatives: best, most powerful, revolutionary, unique, perfect
-- Vague: powerful, smart, robust (without specifics)
+- Clichés: "rest assured", "now more than ever", "in order to", "with that being said"
+- Unproven superlatives: "world-class", "best-in-class", "premier", "unique", "revolutionary", "game-changing", "perfect", "most powerful"
+- Absolute claims: "guarantee(s) health outcomes", "eliminate health risks", "100% engagement"
+- Wrong terms: "WHS" (use "WebMD" or "WebMD Health Services"), "preventative" (use "preventive"), "customers/consumers" (use "clients"), "well-being challenges" (use "wellness challenges")
 
 **Replacements:**
-- "Ensure" → "Helps ensure", "Supports"
-- "Best" → "Among the leading options"
-- "Eliminate" → "Reduce", "Minimize"
+- "Guarantee" → "Help improve", "Support", "Enable"
+- "Eliminate health risks" → "Reduce health risks", "Help manage"
+- "World-class" → "Research-backed", "Clinically validated", "Award-winning [with specific award]"
+- "WHS" → "WebMD" or "WebMD Health Services"
 
-Check all tense variations (ensure/ensures/ensured/ensuring).
+Check all tense variations (guarantee/guarantees/guaranteed/guaranteeing).
 
 ---
 
@@ -144,7 +146,7 @@ Frame from reader's perspective.
 
 ### F. Generate Page Title
 
-- Format: `{Primary Keyword} | Visual Planning`
+- Format: `{Primary Keyword} | WebMD Health Services`
 - Length: 50-60 characters
 
 ---
@@ -160,7 +162,7 @@ Frame from reader's perspective.
 
 ### H. Define URL Structure
 
-- Format: `https://www.visual-planning.com/en/[path]/`
+- Format: `https://www.webmdhealthservices.com/[path]/`
 - Lowercase, hyphens for spaces
 - Include Primary Keyword when possible
 
