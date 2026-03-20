@@ -4,6 +4,12 @@ Add bracketed writing instructions with word counts under each headline to guide
 
 **Prerequisite:** User must approve the content brief from Step 7 before proceeding.
 
+**🚨 CRITICAL OUTPUT REQUIREMENT:**
+- ALL instructions MUST be output as **PLAIN TEXT**, NOT in markdown code blocks
+- NEVER use ``` markers around instructions
+- Format: `[(X words): Discuss/highlight/explain/note...]`
+- Instructions appear as regular text paragraphs under each headline
+
 ---
 
 ## Contents
@@ -38,20 +44,21 @@ Step 8 Progress:
 
 ## Instruction Format
 
+**🚨 CRITICAL: Output ALL instructions as plain text paragraphs. NEVER wrap in markdown code blocks (no ``` markers).**
+
 **Format:** `[(word count): instruction text]`
 
 **Example:**
-```markdown
 **H2:** *Why HR leaders choose WebMD Health Services.*
 
 [(30-40 words): Highlight the top reasons HR Directors, Benefits Managers, and CHROs choose WebMD Health Services. Lead with clinical credibility, the holistic five-dimension approach, and the human-centered coaching model as core differentiators versus point solutions.]
-```
 
 **Rules:**
 - Square brackets containing word count and instruction
-- Word count in parentheses at start: `(15-20 words):`
+- Word count in parentheses at start: `(15-20 words):` or `(20 words):` or `(30-40 words):`
 - Instruction describes what to write, not the actual content
 - Single paragraph, no line breaks within brackets
+- Output as plain text directly under the headline
 
 ---
 
@@ -77,53 +84,53 @@ Step 8 Progress:
 
 The H1 headline stands alone — no instruction on the headline itself. Add a writing instruction for the **intro text** that follows the H1 (drafted in Step 6). Use the word count for the relevant page type (see Word Count Guidelines above).
 
-```markdown
+**Example:**
+
 **H1:** *Employee Well-Being Programs for Large Employers*
 
 *[intro text drafted in Step 6]*
 
 [(15-20 words): Introduce WebMD Health Services as a clinically grounded well-being partner. Concisely answer the "how" — lead with the holistic, five-dimension approach and the breadth of the platform.]
-```
 
 ### First H2 (Problem/Challenge Section)
 
 Frame the challenge the target audience faces.
 
-```markdown
+**Example:**
+
 **H2:** *Why fragmented point solutions fail your workforce.*
 
 [(30-40 words): Acknowledge that as large employers invest in multiple disconnected well-being tools, employees disengage due to irrelevant experiences, HR struggles to prove ROI, and healthcare costs remain high. Frame this as the case for a unified platform approach.]
-```
 
 ### Standard H2
 
 Explain what the section covers and why it matters.
 
-```markdown
+**Example:**
+
 **H2:** *One platform for holistic employee well-being.*
 
 [(30-40 words): Introduce WebMD ONE as the core platform that unifies physical, emotional, social, financial, and clinical well-being into a single, connected experience. Explain how it supports employers in delivering a personalized program at scale.]
-```
 
 ### H3 (Subtopics)
 
 Provide specific guidance for the subtopic.
 
-```markdown
+**Example:**
+
 **H3:** *WebMD ONE — the core well-being platform.*
 
 [(20-30 words): Describe WebMD ONE's key capabilities — Health Assessment, Wellness Challenges, Daily Habits, Digital Coaching, and Benefits Navigation — and explain how the platform drives behavior change across all five dimensions of well-being.]
-```
 
 ### H3 (FAQ Questions)
 
 Guide how to answer each FAQ with more detail.
 
-```markdown
+**Example:**
+
 **H3:** *How does WebMD Health Services differ from competitors?*
 
 [(50-75 words): Explain that unlike digital-only or fitness-focused platforms (Personify Health, Wellhub), WebMD Health Services offers the only solution that includes the Clinical dimension of well-being — chronic condition management and preventive care — alongside the other four dimensions. Highlight the WebMD brand trust, 25+ years of clinical credibility, award-winning health coaching, and the Clinical Advisory Board as key differentiators unavailable elsewhere.]
-```
 
 ---
 
@@ -131,23 +138,23 @@ Guide how to answer each FAQ with more detail.
 
 ### Tables
 
-Include table instructions in brackets:
+Include table instructions in brackets.
 
-```markdown
+**Example:**
+
 **H2:** *WebMD Health Services vs. the competition.*
 
 [(15-20 words): Introduce a feature comparison table that should be included below. Frame it as a straightforward way for HR leaders to compare well-being platforms across the dimensions that matter most to them.]
 
 [Include a feature comparison table. Columns: WebMD Health Services, Personify Health, Sharecare, Vitality, Wellhub. Rows should include dimensions covered (physical, emotional, social, financial, clinical), health coaching (human-led), WebMD brand trust, Clinical Advisory Board, available countries/languages, and average client health improvement. Use checkmarks for supported features.]
-```
 
 ### Testimonials
 
-```markdown
+**Example:**
+
 **H2:** *What our clients are saying.*
 
 [Include a testimonial carousel with 3-5 client testimonials. Each testimonial should include a name, title, organization type (for example, large employer or health plan), and a brief quote emphasizing engagement outcomes, behavior change, healthcare cost reduction, or strategic partnership value.]
-```
 
 ---
 
@@ -157,7 +164,8 @@ Include table instructions in brackets:
 
 Save as `content-brief-with-instructions.md` in the same folder as the original brief.
 
-```markdown
+**Example structure:**
+
 # WebMD Health Services | [Page Topic]: Content Brief
 
 [Keep all metadata sections from original brief unchanged]
@@ -199,7 +207,6 @@ Save as `content-brief-with-instructions.md` in the same folder as the original 
 ---
 
 [Keep Internal Links and other sections unchanged]
-```
 
 ### Confirmation Message
 

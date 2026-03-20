@@ -125,7 +125,7 @@ https://www.webmdhealthservices.com/[path]/
 - Include Primary Keyword naturally
 
 ### URL Structure
-- Start with `https://www.visual-planning.com/en/`
+- Start with `https://www.webmdhealthservices.com/`
 - Lowercase, hyphens for spaces
 
 ### Target Word Count
